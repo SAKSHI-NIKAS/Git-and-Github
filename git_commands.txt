@@ -1,0 +1,40 @@
+2 python .\testing.py                                                                                             
+   3 ls                                                                                                              
+   4 python .\testing.py                                                                                             
+   5 ls                                                                                                              
+   6 ls -l                                                                                                           
+   7 ls -a                                                                                                           
+   8 rm .\testing.py                                                                                                 
+   9 ls                                                                                                              
+  10 git init                                                                                                        
+  11 dir                                                                                                             
+  12 Get-ChildItem                                                                                                   
+  13 git status                                                                                                      
+  14 Get-ChildItem -Force                                                                                            
+  15 git status                                                                                                      
+  16 git status                                                                                                      
+  17 git add testing.py                                                                                              
+  18 dir                                                                                                             
+  19 git status                                                                                                      
+  20 git status                                                                                                      
+  21 pwd                                                                                                             
+  22 dir                                                                                                             
+  23 dir                                                                                                             
+  24 Get-ChildItem -Force                                                                                            
+  25 git status                                                                                                      
+  26 git add .\testing.py                                                                                            
+  27 git status                                                                                                      
+  28 git rm --cached .\testing.py                                                                                    
+  29 git status                                                                                                      
+  30 git add .                                                                                                       
+  31 git status                                                                                                      
+  32 git commit "added testing file"                                                                                 
+  33 git commit -m  "added testing file"                                                                             
+  34 git rm .\testing.py                                                                                             
+  35 git status                                                                                                      
+  36 git restore testing.py                                                                                          
+  37 git restore testing.py                                                                                          
+  38 git restore --staged testing.py                                                                                 
+  39 git status                                                                                                      
+  40 git restore testing.py                                                                                          
+  41 git status
